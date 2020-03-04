@@ -11,13 +11,15 @@ django est basé sur le MVT qui est _model view template_ et le respect du MVT
 ## mise en marche de django 
 
 **créé un dossier**
-**dans le dossier créé le venv avec la commande _python -m venv venv_**
+**dans le dossier créé le venv avec la commande**
+ ```python python -m venv venv ```
 
 **activé le venv avec la commande _source venv/bin/venv_**
 
 **on installe django avec la commande _pip install django == 'version '_**
 
-**créé avec la commande _django-admin startprojet nom de post_**
+**créé avec la commande _**
+```python django-admin startprojet nom de post ```
 
 **on rentre dans le projet avec la commande _cd\nomDuProjet_**
 
