@@ -2,8 +2,10 @@
 ## les premiers pas avec django 
 
 django est le framework Web pourquoi les perfectionniste sous pression
-django est basé sur le MVT qui est _model view template _ et le respect du MVT 
+django est basé sur le MVT qui est _model view template_ et le respect du MVT 
+
 **django à une ORM**
+
 **django à également ces parckag**
 
 ## mise en marche de django 
