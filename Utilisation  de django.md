@@ -13,7 +13,7 @@ django est basé sur le MVT qui est _model view template_ et le respect du MVT
 **créé un dossier**
 **dans le dossier créé le venv avec la commande**
  
- ```python python -m venv venv ```
+ ``` python -m venv venv ```
 
 **activé le venv avec la commande _source venv/bin/venv_**
 
@@ -21,7 +21,7 @@ django est basé sur le MVT qui est _model view template_ et le respect du MVT
 
 **créé avec la commande**
 
-```python django-admin startprojet nom de post```
+```django-admin startprojet nom de post```
 
 **on rentre dans le projet avec la commande _cd\nomDuProjet_**
 
