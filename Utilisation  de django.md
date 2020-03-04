@@ -1,11 +1,13 @@
 # memory
-##les premiers pas avec django
-**django est le framework Web pourquoi les perfectionniste sous pression**
-**django est basé sur le MVT qui est _model view template _ et le respect du MVT **
+#les premiers pas avec django
+
+django est le framework Web pourquoi les perfectionniste sous pression
+django est basé sur le MVT qui est _model view template _ et le respect du MVT 
 **django à une ORM**
 **django à également ces parckag**
 
-##mise en marche de django 
+#mise en marche de django 
+
 **créé un dossier **
 **dans le dossier créé le venv avec la commande _python -m venv venv_**
 **activé le venv avec la commande _source venv/bin/venv_**
